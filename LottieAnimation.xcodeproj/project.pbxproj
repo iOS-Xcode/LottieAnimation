@@ -86,10 +86,10 @@
 		B90E32AF254FC4BB00947AB3 /* LottieAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				B90E32D0254FD4E900947AB3 /* screenshot1.png */,
-				B90E32D1254FD4E900947AB3 /* screenshot2.png */,
 				B90E32C5254FC4D600947AB3 /* ViewControllers */,
 				B90E32B0254FC4BB00947AB3 /* AppDelegate.swift */,
+				B90E32D0254FD4E900947AB3 /* screenshot1.png */,
+				B90E32D1254FD4E900947AB3 /* screenshot2.png */,
 				B90E32B2254FC4BB00947AB3 /* SceneDelegate.swift */,
 				B90E32B6254FC4BB00947AB3 /* Main.storyboard */,
 				B90E32B9254FC4BD00947AB3 /* Assets.xcassets */,

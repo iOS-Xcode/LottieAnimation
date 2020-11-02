@@ -15,6 +15,8 @@
 		B90E32BA254FC4BD00947AB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B90E32B9254FC4BD00947AB3 /* Assets.xcassets */; };
 		B90E32BD254FC4BD00947AB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B90E32BB254FC4BD00947AB3 /* LaunchScreen.storyboard */; };
 		B90E32CB254FCA4B00947AB3 /* 36348-haunted-bag-01.json in Resources */ = {isa = PBXBuildFile; fileRef = B90E32CA254FCA4B00947AB3 /* 36348-haunted-bag-01.json */; };
+		B90E32D2254FD4E900947AB3 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = B90E32D0254FD4E900947AB3 /* screenshot1.png */; };
+		B90E32D3254FD4E900947AB3 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = B90E32D1254FD4E900947AB3 /* screenshot2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		B90E32BC254FC4BD00947AB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B90E32BE254FC4BD00947AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B90E32CA254FCA4B00947AB3 /* 36348-haunted-bag-01.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "36348-haunted-bag-01.json"; sourceTree = "<group>"; };
+		B90E32D0254FD4E900947AB3 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		B90E32D1254FD4E900947AB3 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,8 @@
 		B90E32AF254FC4BB00947AB3 /* LottieAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				B90E32D0254FD4E900947AB3 /* screenshot1.png */,
+				B90E32D1254FD4E900947AB3 /* screenshot2.png */,
 				B90E32C5254FC4D600947AB3 /* ViewControllers */,
 				B90E32B0254FC4BB00947AB3 /* AppDelegate.swift */,
 				B90E32B2254FC4BB00947AB3 /* SceneDelegate.swift */,
@@ -161,10 +167,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B90E32D3254FD4E900947AB3 /* screenshot2.png in Resources */,
 				B90E32CB254FCA4B00947AB3 /* 36348-haunted-bag-01.json in Resources */,
 				B90E32BD254FC4BD00947AB3 /* LaunchScreen.storyboard in Resources */,
 				B90E32BA254FC4BD00947AB3 /* Assets.xcassets in Resources */,
 				B90E32B8254FC4BB00947AB3 /* Main.storyboard in Resources */,
+				B90E32D2254FD4E900947AB3 /* screenshot1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
